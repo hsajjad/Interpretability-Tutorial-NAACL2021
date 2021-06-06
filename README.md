@@ -4,7 +4,7 @@ This repository contains material related to the tutorial presented on June 6th,
 
 
 ## Slides
-The PDF version of the slides will be available soon.
+The PDF version of the slides are available here: [link](https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021/blob/main/Interpretation_Tutorial_NAACL_2021.pdf)
 
 ## Video
 We will update the video soon.
