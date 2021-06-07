@@ -2,12 +2,11 @@
 
 This repository contains material related to the tutorial presented on June 6th, 2021 at NAACL. The presenters were Hassan Sajjad, Narine Kokhlikyan, Fahim Dalvi and Nadir Durrani. 
 
-
 ## Slides
-The PDF version of the slides are available here: [link](https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021/blob/main/Interpretation_Tutorial_NAACL_2021.pdf)
+The PDF version of the slides are available [here](https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021/blob/main/Interpretation_Tutorial_NAACL_2021.pdf).
 
 ## Video
-We will update the video soon.
+The video recording of the tutorial can be seen [here](https://youtu.be/ayhBHZYjeqs).
 
 ## Abstract
 Deep neural networks have constantly pushed the state-of-the-art performance in natural language processing and are considered as the de-facto modeling approach in solving complex NLP tasks such as machine translation, summarization and question-answering. Despite the proven efficacy of deep neural networks at-large, their opaqueness is a major cause of concern. 
@@ -16,7 +15,6 @@ In this tutorial, we will present research work on interpreting fine-grained com
 
 ## Paper 
 The overview of the tutorial paper can be found here: [link](https://www.aclweb.org/anthology/2021.naacl-tutorials.2.pdf)
-
 
 
 ## Citation
